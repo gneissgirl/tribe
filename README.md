@@ -114,6 +114,15 @@ The release versions that are sent to the Python package index (PyPI) are also t
 
 The versioning uses a three part version system, "a.b.c" - "a" represents a major release that may not be backwards compatible. "b" is incremented on minor releases that may contain extra features, but are backwards compatible. "c" releases are bug fixes or other micro changes that developers should feel free to immediately update to.
 
+### Version 1.4
+
+* **tag**: [v1.4](https://github.com/DistrictDataLabs/tribe/releases/tag/v1.4)
+* **release**:  Wednesday, Feb 25 2017
+* **commit**: [see tag](#)
+
+We implemented security fixes and added blah features.
+
+
 ### Version 1.3
 
 * **tag**: [v1.3](https://github.com/DistrictDataLabs/tribe/releases/tag/v1.3)
